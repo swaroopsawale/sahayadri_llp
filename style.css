@@ -1,0 +1,12 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.pro-section h1{
+    font-size: 3100px;
+    text-align: center;
+    color:#007bff;
+    margin: 50px 0px;
+}
